@@ -6,17 +6,17 @@
 ## Navigating this Repository
 
 ### Datasets
-Contains the datasets we've been training our models on.
+Contains the datasets the models are trained on.    
 
 ### NLP Backend
-Holds the models we trained to diagnose our patients. This folder is structured as follows:
+Holds the models trained to diagnose our patients. Folder Structure:
 - **ExploratoryModels:**  
-  Contains all of our preliminary exploration work on various NLP models.
+  Contains all preliminary exploration work on various NLP models.
 - **ProductionModels:**  
-  Contains all of our optimized models for the `Catharsis.AI` pipeline.
+  Contains all optimized models for the `Catharsis.AI` pipeline. *(Incomplete)*
 
 ### GPTChatbot
-Includes the GPT pretrained model which will be re-trained using reinforcement learning to optimize its interactions with our users.
+Includes the GPT pretrained model which will be re-trained using reinforcement learning to optimize its interactions with our users. *(Not implemented yet)*
 
 ### Proposal
-Contains our proposal for RBC's Let's Solve it (hope we get in!!).
+Contains proposal for RBC's Let's Solve It program (did not get accepted, project paused!!).
